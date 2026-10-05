@@ -1,0 +1,19 @@
+
+# Karl Popper: Conjectures and Refutations
+
+When does something become true in science?
+
+Science is distinguished from pseudosciences by its empirical side observation and experimentation but Popper wanted to go further. 
+Astrology, which is a pseudoscience, also relies on empiricism.
+
+Following the fall of the Austrian Empire, Popper became interested in three scientific theories, and he was amazed by the early observations confirming Einstein's theory of relativity.
+However, he did not believe in Marxist theory, and he wondered why physical theories and social theories were so different to analyze. 
+He noticed that with Adler and Freud, you could interpret the exact same situation differently and fit it into the personal context of each analyst, whereas Einstein predicted specific results that could never have been found using his theory alone.
+
+From this, he established criteria for evaluating the reliability of a theory, notably the requirement that some of its results must be unpredictable beforehand—criteria that neither astrology nor Marxist theory fulfilled. 
+However, he opposed dismissing certain theories as "useless" just because they failed to meet these criteria, as he still considered them useful or even visionary.
+
+For another physicist, Max Born, an infinite chain of observations constitutes proof, but for Popper, it is not; it is an act of faith. 
+Science operates through _conjectures_—hypotheses based on observations. 
+A theory can never be proven true; we can only confront it with observations to increase its credibility, or refute it definitively. 
+Personally, I see in this a "discovery" of the concept of empirical-formal science (such as sociology, history, and psychology) which, unlike formal sciences that can be proven through formulas, rely on models that are more or less accepted and systematically called into question by observations and experiments.
