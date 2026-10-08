@@ -1,3 +1,6 @@
+NOTE : I took an old version of the git, I leave this document there cause it could be usefull
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 # Karl Popper: Conjectures and Refutations
 
